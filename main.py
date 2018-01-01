@@ -9,7 +9,7 @@ from wox import Wox
 result_template = {
     'Title': '{}',
     'SubTitle': '+++ Click To Copy It +++',
-    'IcoPath': 'randpass2.png',
+    'IcoPath': 'password.png',
     'JsonRPCAction': {
         'method': 'copy_to_clipboard',
         'parameters': ['{}'],

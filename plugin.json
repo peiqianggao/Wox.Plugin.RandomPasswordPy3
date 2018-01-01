@@ -1,12 +1,12 @@
 {
-    "ID": "D2D3C24A684D411DB66FE1B89D6C3B1B",
+    "ID": "D2D3C24A684D411DB66FE1B89D6C3BXX",
     "ActionKeyword": "pw",
     "Name": "RandomPasswd",
     "Description": "Generate A Random Password To ClipBoard",
     "Author": "Gaopq From GeekTheRipper",
-    "Version": "1.0",
+    "Version": "0.1.0",
     "Language": "python",
     "Website": "http://www.getwox.com",
     "ExecuteFileName": "main.py",
-    "IcoPath": "randpass.png"
+    "IcoPath": "password.png"
 }

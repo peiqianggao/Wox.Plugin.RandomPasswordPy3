@@ -1,5 +1,4 @@
-# Wox.Plugin.RandomPasswordPy3
-Wox Random Password Plugin With Python3
+# Wox Random Password Plugin With Python3
 
 ## Additional Dependence
 ```
