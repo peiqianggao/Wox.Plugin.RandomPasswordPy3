@@ -10,13 +10,13 @@ pip install pyperclip
 ``` 
 pw length number
 ```
-example:
+example:    
 pw 8 2
 --> 
 9dwgJ9Du    
 vEudjJds    
 
-pw 5 3
+pw 5 3  
 -->
 hsyu8   
 mkdjs   
